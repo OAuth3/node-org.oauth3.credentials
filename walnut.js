@@ -4,7 +4,7 @@ var PromiseA = require('bluebird');
 
 module.exports.create = function (conf, deps, app) {
 
-  deps.systemSqlFactory.create({
+  return deps.systemSqlFactory.create({
     init: true
   , dbname: 'org.oauth3.profiles'
   }).then(function (Db) {
