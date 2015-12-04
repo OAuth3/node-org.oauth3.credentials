@@ -1,0 +1,33 @@
+{
+  "name": "org.oauth3.credentials",
+  "version": "1.0.0",
+  "description": "Manage credentials, profiles and credential-profile mappings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OAuth3/node-org.oauth3.credentials.git"
+  },
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "oauth3",
+    "account",
+    "accounts",
+    "login",
+    "logins",
+    "session",
+    "sessions",
+    "credentials",
+    "profile",
+    "profiles"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com)",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/OAuth3/node-org.oauth3.credentials/issues"
+  },
+  "homepage": "https://github.com/OAuth3/node-org.oauth3.credentials"
+}
