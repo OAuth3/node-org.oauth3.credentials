@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Manage credentials, profiles and credential-profile mappings",
   "main": "index.js",
+  "walnut": "walnut.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
